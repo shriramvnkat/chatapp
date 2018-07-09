@@ -5,7 +5,6 @@
         "host": "127.0.0.1",
         "port": "5433",
         "dialect": "postgres",
-        "secretKey": "NGagIpuSrSmGarIt",
         "algorithm":"aes-256-cbc",
         "key":"NGagIpuSrSmGarIt",
         "operatorsAliases": false
